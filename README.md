@@ -1,4 +1,5 @@
 === Die Gutenberg -- Die ! ===
+
 Contributors: Torres Digital -Sites → Lojas Virtuais e e-Commerce
 Tags: disable, gutenberg
 Requires at least: WordPress 4.4
