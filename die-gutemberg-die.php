@@ -28,3 +28,6 @@ You can contact us at contato@torresdigital.tk
         */
 
         add_filter('use_block_editor_for_post', '__return_false');
+
+
+
